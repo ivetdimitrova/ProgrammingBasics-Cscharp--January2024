@@ -1,0 +1,15 @@
+D:\Softuni-2024-Jan\FirstStepsInCoding-Exersice\DepositCalculator\bin\Debug\net6.0\DepositCalculator.exe
+D:\Softuni-2024-Jan\FirstStepsInCoding-Exersice\DepositCalculator\bin\Debug\net6.0\DepositCalculator.deps.json
+D:\Softuni-2024-Jan\FirstStepsInCoding-Exersice\DepositCalculator\bin\Debug\net6.0\DepositCalculator.runtimeconfig.json
+D:\Softuni-2024-Jan\FirstStepsInCoding-Exersice\DepositCalculator\bin\Debug\net6.0\DepositCalculator.dll
+D:\Softuni-2024-Jan\FirstStepsInCoding-Exersice\DepositCalculator\bin\Debug\net6.0\DepositCalculator.pdb
+D:\Softuni-2024-Jan\FirstStepsInCoding-Exersice\DepositCalculator\obj\Debug\net6.0\DepositCalculator.csproj.AssemblyReference.cache
+D:\Softuni-2024-Jan\FirstStepsInCoding-Exersice\DepositCalculator\obj\Debug\net6.0\DepositCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni-2024-Jan\FirstStepsInCoding-Exersice\DepositCalculator\obj\Debug\net6.0\DepositCalculator.AssemblyInfoInputs.cache
+D:\Softuni-2024-Jan\FirstStepsInCoding-Exersice\DepositCalculator\obj\Debug\net6.0\DepositCalculator.AssemblyInfo.cs
+D:\Softuni-2024-Jan\FirstStepsInCoding-Exersice\DepositCalculator\obj\Debug\net6.0\DepositCalculator.csproj.CoreCompileInputs.cache
+D:\Softuni-2024-Jan\FirstStepsInCoding-Exersice\DepositCalculator\obj\Debug\net6.0\DepositCalculator.dll
+D:\Softuni-2024-Jan\FirstStepsInCoding-Exersice\DepositCalculator\obj\Debug\net6.0\refint\DepositCalculator.dll
+D:\Softuni-2024-Jan\FirstStepsInCoding-Exersice\DepositCalculator\obj\Debug\net6.0\DepositCalculator.pdb
+D:\Softuni-2024-Jan\FirstStepsInCoding-Exersice\DepositCalculator\obj\Debug\net6.0\DepositCalculator.genruntimeconfig.cache
+D:\Softuni-2024-Jan\FirstStepsInCoding-Exersice\DepositCalculator\obj\Debug\net6.0\ref\DepositCalculator.dll
