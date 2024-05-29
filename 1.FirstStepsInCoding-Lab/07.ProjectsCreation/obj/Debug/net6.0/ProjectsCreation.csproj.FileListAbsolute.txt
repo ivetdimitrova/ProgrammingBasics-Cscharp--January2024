@@ -1,0 +1,15 @@
+D:\Softuni-2024-Jan\FirstStepsInCoding\ProjectsCreation\bin\Debug\net6.0\ProjectsCreation.exe
+D:\Softuni-2024-Jan\FirstStepsInCoding\ProjectsCreation\bin\Debug\net6.0\ProjectsCreation.deps.json
+D:\Softuni-2024-Jan\FirstStepsInCoding\ProjectsCreation\bin\Debug\net6.0\ProjectsCreation.runtimeconfig.json
+D:\Softuni-2024-Jan\FirstStepsInCoding\ProjectsCreation\bin\Debug\net6.0\ProjectsCreation.dll
+D:\Softuni-2024-Jan\FirstStepsInCoding\ProjectsCreation\bin\Debug\net6.0\ProjectsCreation.pdb
+D:\Softuni-2024-Jan\FirstStepsInCoding\ProjectsCreation\obj\Debug\net6.0\ProjectsCreation.csproj.AssemblyReference.cache
+D:\Softuni-2024-Jan\FirstStepsInCoding\ProjectsCreation\obj\Debug\net6.0\ProjectsCreation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni-2024-Jan\FirstStepsInCoding\ProjectsCreation\obj\Debug\net6.0\ProjectsCreation.AssemblyInfoInputs.cache
+D:\Softuni-2024-Jan\FirstStepsInCoding\ProjectsCreation\obj\Debug\net6.0\ProjectsCreation.AssemblyInfo.cs
+D:\Softuni-2024-Jan\FirstStepsInCoding\ProjectsCreation\obj\Debug\net6.0\ProjectsCreation.csproj.CoreCompileInputs.cache
+D:\Softuni-2024-Jan\FirstStepsInCoding\ProjectsCreation\obj\Debug\net6.0\ProjectsCreation.dll
+D:\Softuni-2024-Jan\FirstStepsInCoding\ProjectsCreation\obj\Debug\net6.0\refint\ProjectsCreation.dll
+D:\Softuni-2024-Jan\FirstStepsInCoding\ProjectsCreation\obj\Debug\net6.0\ProjectsCreation.pdb
+D:\Softuni-2024-Jan\FirstStepsInCoding\ProjectsCreation\obj\Debug\net6.0\ProjectsCreation.genruntimeconfig.cache
+D:\Softuni-2024-Jan\FirstStepsInCoding\ProjectsCreation\obj\Debug\net6.0\ref\ProjectsCreation.dll
