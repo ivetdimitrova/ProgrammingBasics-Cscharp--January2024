@@ -1,0 +1,15 @@
+D:\Softuni-2024-Jan\Conditional Statements-Lab\AreaOfFigures\bin\Debug\net6.0\AreaOfFigures.exe
+D:\Softuni-2024-Jan\Conditional Statements-Lab\AreaOfFigures\bin\Debug\net6.0\AreaOfFigures.deps.json
+D:\Softuni-2024-Jan\Conditional Statements-Lab\AreaOfFigures\bin\Debug\net6.0\AreaOfFigures.runtimeconfig.json
+D:\Softuni-2024-Jan\Conditional Statements-Lab\AreaOfFigures\bin\Debug\net6.0\AreaOfFigures.dll
+D:\Softuni-2024-Jan\Conditional Statements-Lab\AreaOfFigures\bin\Debug\net6.0\AreaOfFigures.pdb
+D:\Softuni-2024-Jan\Conditional Statements-Lab\AreaOfFigures\obj\Debug\net6.0\AreaOfFigures.csproj.AssemblyReference.cache
+D:\Softuni-2024-Jan\Conditional Statements-Lab\AreaOfFigures\obj\Debug\net6.0\AreaOfFigures.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni-2024-Jan\Conditional Statements-Lab\AreaOfFigures\obj\Debug\net6.0\AreaOfFigures.AssemblyInfoInputs.cache
+D:\Softuni-2024-Jan\Conditional Statements-Lab\AreaOfFigures\obj\Debug\net6.0\AreaOfFigures.AssemblyInfo.cs
+D:\Softuni-2024-Jan\Conditional Statements-Lab\AreaOfFigures\obj\Debug\net6.0\AreaOfFigures.csproj.CoreCompileInputs.cache
+D:\Softuni-2024-Jan\Conditional Statements-Lab\AreaOfFigures\obj\Debug\net6.0\AreaOfFigures.dll
+D:\Softuni-2024-Jan\Conditional Statements-Lab\AreaOfFigures\obj\Debug\net6.0\refint\AreaOfFigures.dll
+D:\Softuni-2024-Jan\Conditional Statements-Lab\AreaOfFigures\obj\Debug\net6.0\AreaOfFigures.pdb
+D:\Softuni-2024-Jan\Conditional Statements-Lab\AreaOfFigures\obj\Debug\net6.0\AreaOfFigures.genruntimeconfig.cache
+D:\Softuni-2024-Jan\Conditional Statements-Lab\AreaOfFigures\obj\Debug\net6.0\ref\AreaOfFigures.dll
