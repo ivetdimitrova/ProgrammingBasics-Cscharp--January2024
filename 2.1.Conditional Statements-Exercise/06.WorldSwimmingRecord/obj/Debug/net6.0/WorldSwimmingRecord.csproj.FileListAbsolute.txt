@@ -1,0 +1,15 @@
+D:\Softuni-2024-Jan\Conditional Statements-Exercise\WorldSwimmingRecord\bin\Debug\net6.0\WorldSwimmingRecord.exe
+D:\Softuni-2024-Jan\Conditional Statements-Exercise\WorldSwimmingRecord\bin\Debug\net6.0\WorldSwimmingRecord.deps.json
+D:\Softuni-2024-Jan\Conditional Statements-Exercise\WorldSwimmingRecord\bin\Debug\net6.0\WorldSwimmingRecord.runtimeconfig.json
+D:\Softuni-2024-Jan\Conditional Statements-Exercise\WorldSwimmingRecord\bin\Debug\net6.0\WorldSwimmingRecord.dll
+D:\Softuni-2024-Jan\Conditional Statements-Exercise\WorldSwimmingRecord\bin\Debug\net6.0\WorldSwimmingRecord.pdb
+D:\Softuni-2024-Jan\Conditional Statements-Exercise\WorldSwimmingRecord\obj\Debug\net6.0\WorldSwimmingRecord.csproj.AssemblyReference.cache
+D:\Softuni-2024-Jan\Conditional Statements-Exercise\WorldSwimmingRecord\obj\Debug\net6.0\WorldSwimmingRecord.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni-2024-Jan\Conditional Statements-Exercise\WorldSwimmingRecord\obj\Debug\net6.0\WorldSwimmingRecord.AssemblyInfoInputs.cache
+D:\Softuni-2024-Jan\Conditional Statements-Exercise\WorldSwimmingRecord\obj\Debug\net6.0\WorldSwimmingRecord.AssemblyInfo.cs
+D:\Softuni-2024-Jan\Conditional Statements-Exercise\WorldSwimmingRecord\obj\Debug\net6.0\WorldSwimmingRecord.csproj.CoreCompileInputs.cache
+D:\Softuni-2024-Jan\Conditional Statements-Exercise\WorldSwimmingRecord\obj\Debug\net6.0\WorldSwimmingRecord.dll
+D:\Softuni-2024-Jan\Conditional Statements-Exercise\WorldSwimmingRecord\obj\Debug\net6.0\refint\WorldSwimmingRecord.dll
+D:\Softuni-2024-Jan\Conditional Statements-Exercise\WorldSwimmingRecord\obj\Debug\net6.0\WorldSwimmingRecord.pdb
+D:\Softuni-2024-Jan\Conditional Statements-Exercise\WorldSwimmingRecord\obj\Debug\net6.0\WorldSwimmingRecord.genruntimeconfig.cache
+D:\Softuni-2024-Jan\Conditional Statements-Exercise\WorldSwimmingRecord\obj\Debug\net6.0\ref\WorldSwimmingRecord.dll
