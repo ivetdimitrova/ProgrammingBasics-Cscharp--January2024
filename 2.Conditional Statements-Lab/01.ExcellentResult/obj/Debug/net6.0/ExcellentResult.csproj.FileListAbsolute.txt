@@ -1,0 +1,15 @@
+D:\Softuni-2024-Jan\Conditional Statements-Lab\ExcellentResult\bin\Debug\net6.0\ExcellentResult.exe
+D:\Softuni-2024-Jan\Conditional Statements-Lab\ExcellentResult\bin\Debug\net6.0\ExcellentResult.deps.json
+D:\Softuni-2024-Jan\Conditional Statements-Lab\ExcellentResult\bin\Debug\net6.0\ExcellentResult.runtimeconfig.json
+D:\Softuni-2024-Jan\Conditional Statements-Lab\ExcellentResult\bin\Debug\net6.0\ExcellentResult.dll
+D:\Softuni-2024-Jan\Conditional Statements-Lab\ExcellentResult\bin\Debug\net6.0\ExcellentResult.pdb
+D:\Softuni-2024-Jan\Conditional Statements-Lab\ExcellentResult\obj\Debug\net6.0\ExcellentResult.csproj.AssemblyReference.cache
+D:\Softuni-2024-Jan\Conditional Statements-Lab\ExcellentResult\obj\Debug\net6.0\ExcellentResult.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni-2024-Jan\Conditional Statements-Lab\ExcellentResult\obj\Debug\net6.0\ExcellentResult.AssemblyInfoInputs.cache
+D:\Softuni-2024-Jan\Conditional Statements-Lab\ExcellentResult\obj\Debug\net6.0\ExcellentResult.AssemblyInfo.cs
+D:\Softuni-2024-Jan\Conditional Statements-Lab\ExcellentResult\obj\Debug\net6.0\ExcellentResult.csproj.CoreCompileInputs.cache
+D:\Softuni-2024-Jan\Conditional Statements-Lab\ExcellentResult\obj\Debug\net6.0\ExcellentResult.dll
+D:\Softuni-2024-Jan\Conditional Statements-Lab\ExcellentResult\obj\Debug\net6.0\refint\ExcellentResult.dll
+D:\Softuni-2024-Jan\Conditional Statements-Lab\ExcellentResult\obj\Debug\net6.0\ExcellentResult.pdb
+D:\Softuni-2024-Jan\Conditional Statements-Lab\ExcellentResult\obj\Debug\net6.0\ExcellentResult.genruntimeconfig.cache
+D:\Softuni-2024-Jan\Conditional Statements-Lab\ExcellentResult\obj\Debug\net6.0\ref\ExcellentResult.dll
