@@ -1,0 +1,15 @@
+D:\Softuni-2024-Jan\FirstStepsInCoding\InchesToCentimeters\bin\Debug\net6.0\InchesToCentimeters.exe
+D:\Softuni-2024-Jan\FirstStepsInCoding\InchesToCentimeters\bin\Debug\net6.0\InchesToCentimeters.deps.json
+D:\Softuni-2024-Jan\FirstStepsInCoding\InchesToCentimeters\bin\Debug\net6.0\InchesToCentimeters.runtimeconfig.json
+D:\Softuni-2024-Jan\FirstStepsInCoding\InchesToCentimeters\bin\Debug\net6.0\InchesToCentimeters.dll
+D:\Softuni-2024-Jan\FirstStepsInCoding\InchesToCentimeters\bin\Debug\net6.0\InchesToCentimeters.pdb
+D:\Softuni-2024-Jan\FirstStepsInCoding\InchesToCentimeters\obj\Debug\net6.0\InchesToCentimeters.csproj.AssemblyReference.cache
+D:\Softuni-2024-Jan\FirstStepsInCoding\InchesToCentimeters\obj\Debug\net6.0\InchesToCentimeters.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni-2024-Jan\FirstStepsInCoding\InchesToCentimeters\obj\Debug\net6.0\InchesToCentimeters.AssemblyInfoInputs.cache
+D:\Softuni-2024-Jan\FirstStepsInCoding\InchesToCentimeters\obj\Debug\net6.0\InchesToCentimeters.AssemblyInfo.cs
+D:\Softuni-2024-Jan\FirstStepsInCoding\InchesToCentimeters\obj\Debug\net6.0\InchesToCentimeters.csproj.CoreCompileInputs.cache
+D:\Softuni-2024-Jan\FirstStepsInCoding\InchesToCentimeters\obj\Debug\net6.0\InchesToCentimeters.dll
+D:\Softuni-2024-Jan\FirstStepsInCoding\InchesToCentimeters\obj\Debug\net6.0\refint\InchesToCentimeters.dll
+D:\Softuni-2024-Jan\FirstStepsInCoding\InchesToCentimeters\obj\Debug\net6.0\InchesToCentimeters.pdb
+D:\Softuni-2024-Jan\FirstStepsInCoding\InchesToCentimeters\obj\Debug\net6.0\InchesToCentimeters.genruntimeconfig.cache
+D:\Softuni-2024-Jan\FirstStepsInCoding\InchesToCentimeters\obj\Debug\net6.0\ref\InchesToCentimeters.dll
