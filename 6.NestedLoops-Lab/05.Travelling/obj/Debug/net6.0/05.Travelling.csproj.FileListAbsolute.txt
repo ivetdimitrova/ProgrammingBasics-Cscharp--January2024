@@ -1,0 +1,15 @@
+D:\Softuni-2024-Jan\NestedLoops-Lab\05.Travelling\bin\Debug\net6.0\05.Travelling.exe
+D:\Softuni-2024-Jan\NestedLoops-Lab\05.Travelling\bin\Debug\net6.0\05.Travelling.deps.json
+D:\Softuni-2024-Jan\NestedLoops-Lab\05.Travelling\bin\Debug\net6.0\05.Travelling.runtimeconfig.json
+D:\Softuni-2024-Jan\NestedLoops-Lab\05.Travelling\bin\Debug\net6.0\05.Travelling.dll
+D:\Softuni-2024-Jan\NestedLoops-Lab\05.Travelling\bin\Debug\net6.0\05.Travelling.pdb
+D:\Softuni-2024-Jan\NestedLoops-Lab\05.Travelling\obj\Debug\net6.0\05.Travelling.csproj.AssemblyReference.cache
+D:\Softuni-2024-Jan\NestedLoops-Lab\05.Travelling\obj\Debug\net6.0\05.Travelling.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni-2024-Jan\NestedLoops-Lab\05.Travelling\obj\Debug\net6.0\05.Travelling.AssemblyInfoInputs.cache
+D:\Softuni-2024-Jan\NestedLoops-Lab\05.Travelling\obj\Debug\net6.0\05.Travelling.AssemblyInfo.cs
+D:\Softuni-2024-Jan\NestedLoops-Lab\05.Travelling\obj\Debug\net6.0\05.Travelling.csproj.CoreCompileInputs.cache
+D:\Softuni-2024-Jan\NestedLoops-Lab\05.Travelling\obj\Debug\net6.0\05.Travelling.dll
+D:\Softuni-2024-Jan\NestedLoops-Lab\05.Travelling\obj\Debug\net6.0\refint\05.Travelling.dll
+D:\Softuni-2024-Jan\NestedLoops-Lab\05.Travelling\obj\Debug\net6.0\05.Travelling.pdb
+D:\Softuni-2024-Jan\NestedLoops-Lab\05.Travelling\obj\Debug\net6.0\05.Travelling.genruntimeconfig.cache
+D:\Softuni-2024-Jan\NestedLoops-Lab\05.Travelling\obj\Debug\net6.0\ref\05.Travelling.dll
