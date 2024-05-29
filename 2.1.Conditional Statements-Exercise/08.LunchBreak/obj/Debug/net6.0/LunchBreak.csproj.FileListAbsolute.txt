@@ -1,0 +1,15 @@
+D:\Softuni-2024-Jan\Conditional Statements-Exercise\LunchBreak\bin\Debug\net6.0\LunchBreak.exe
+D:\Softuni-2024-Jan\Conditional Statements-Exercise\LunchBreak\bin\Debug\net6.0\LunchBreak.deps.json
+D:\Softuni-2024-Jan\Conditional Statements-Exercise\LunchBreak\bin\Debug\net6.0\LunchBreak.runtimeconfig.json
+D:\Softuni-2024-Jan\Conditional Statements-Exercise\LunchBreak\bin\Debug\net6.0\LunchBreak.dll
+D:\Softuni-2024-Jan\Conditional Statements-Exercise\LunchBreak\bin\Debug\net6.0\LunchBreak.pdb
+D:\Softuni-2024-Jan\Conditional Statements-Exercise\LunchBreak\obj\Debug\net6.0\LunchBreak.csproj.AssemblyReference.cache
+D:\Softuni-2024-Jan\Conditional Statements-Exercise\LunchBreak\obj\Debug\net6.0\LunchBreak.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni-2024-Jan\Conditional Statements-Exercise\LunchBreak\obj\Debug\net6.0\LunchBreak.AssemblyInfoInputs.cache
+D:\Softuni-2024-Jan\Conditional Statements-Exercise\LunchBreak\obj\Debug\net6.0\LunchBreak.AssemblyInfo.cs
+D:\Softuni-2024-Jan\Conditional Statements-Exercise\LunchBreak\obj\Debug\net6.0\LunchBreak.csproj.CoreCompileInputs.cache
+D:\Softuni-2024-Jan\Conditional Statements-Exercise\LunchBreak\obj\Debug\net6.0\LunchBreak.dll
+D:\Softuni-2024-Jan\Conditional Statements-Exercise\LunchBreak\obj\Debug\net6.0\refint\LunchBreak.dll
+D:\Softuni-2024-Jan\Conditional Statements-Exercise\LunchBreak\obj\Debug\net6.0\LunchBreak.pdb
+D:\Softuni-2024-Jan\Conditional Statements-Exercise\LunchBreak\obj\Debug\net6.0\LunchBreak.genruntimeconfig.cache
+D:\Softuni-2024-Jan\Conditional Statements-Exercise\LunchBreak\obj\Debug\net6.0\ref\LunchBreak.dll

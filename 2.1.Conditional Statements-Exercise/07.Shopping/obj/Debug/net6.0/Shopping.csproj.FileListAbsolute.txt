@@ -1,0 +1,15 @@
+D:\Softuni-2024-Jan\Conditional Statements-Exercise\Shopping\bin\Debug\net6.0\Shopping.exe
+D:\Softuni-2024-Jan\Conditional Statements-Exercise\Shopping\bin\Debug\net6.0\Shopping.deps.json
+D:\Softuni-2024-Jan\Conditional Statements-Exercise\Shopping\bin\Debug\net6.0\Shopping.runtimeconfig.json
+D:\Softuni-2024-Jan\Conditional Statements-Exercise\Shopping\bin\Debug\net6.0\Shopping.dll
+D:\Softuni-2024-Jan\Conditional Statements-Exercise\Shopping\bin\Debug\net6.0\Shopping.pdb
+D:\Softuni-2024-Jan\Conditional Statements-Exercise\Shopping\obj\Debug\net6.0\Shopping.csproj.AssemblyReference.cache
+D:\Softuni-2024-Jan\Conditional Statements-Exercise\Shopping\obj\Debug\net6.0\Shopping.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni-2024-Jan\Conditional Statements-Exercise\Shopping\obj\Debug\net6.0\Shopping.AssemblyInfoInputs.cache
+D:\Softuni-2024-Jan\Conditional Statements-Exercise\Shopping\obj\Debug\net6.0\Shopping.AssemblyInfo.cs
+D:\Softuni-2024-Jan\Conditional Statements-Exercise\Shopping\obj\Debug\net6.0\Shopping.csproj.CoreCompileInputs.cache
+D:\Softuni-2024-Jan\Conditional Statements-Exercise\Shopping\obj\Debug\net6.0\Shopping.dll
+D:\Softuni-2024-Jan\Conditional Statements-Exercise\Shopping\obj\Debug\net6.0\refint\Shopping.dll
+D:\Softuni-2024-Jan\Conditional Statements-Exercise\Shopping\obj\Debug\net6.0\Shopping.pdb
+D:\Softuni-2024-Jan\Conditional Statements-Exercise\Shopping\obj\Debug\net6.0\Shopping.genruntimeconfig.cache
+D:\Softuni-2024-Jan\Conditional Statements-Exercise\Shopping\obj\Debug\net6.0\ref\Shopping.dll
