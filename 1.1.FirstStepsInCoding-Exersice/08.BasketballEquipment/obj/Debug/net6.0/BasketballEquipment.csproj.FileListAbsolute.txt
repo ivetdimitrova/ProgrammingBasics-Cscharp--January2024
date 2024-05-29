@@ -1,0 +1,15 @@
+D:\Softuni-2024-Jan\FirstStepsInCoding-Exersice\BasketballEquipment\bin\Debug\net6.0\BasketballEquipment.exe
+D:\Softuni-2024-Jan\FirstStepsInCoding-Exersice\BasketballEquipment\bin\Debug\net6.0\BasketballEquipment.deps.json
+D:\Softuni-2024-Jan\FirstStepsInCoding-Exersice\BasketballEquipment\bin\Debug\net6.0\BasketballEquipment.runtimeconfig.json
+D:\Softuni-2024-Jan\FirstStepsInCoding-Exersice\BasketballEquipment\bin\Debug\net6.0\BasketballEquipment.dll
+D:\Softuni-2024-Jan\FirstStepsInCoding-Exersice\BasketballEquipment\bin\Debug\net6.0\BasketballEquipment.pdb
+D:\Softuni-2024-Jan\FirstStepsInCoding-Exersice\BasketballEquipment\obj\Debug\net6.0\BasketballEquipment.csproj.AssemblyReference.cache
+D:\Softuni-2024-Jan\FirstStepsInCoding-Exersice\BasketballEquipment\obj\Debug\net6.0\BasketballEquipment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni-2024-Jan\FirstStepsInCoding-Exersice\BasketballEquipment\obj\Debug\net6.0\BasketballEquipment.AssemblyInfoInputs.cache
+D:\Softuni-2024-Jan\FirstStepsInCoding-Exersice\BasketballEquipment\obj\Debug\net6.0\BasketballEquipment.AssemblyInfo.cs
+D:\Softuni-2024-Jan\FirstStepsInCoding-Exersice\BasketballEquipment\obj\Debug\net6.0\BasketballEquipment.csproj.CoreCompileInputs.cache
+D:\Softuni-2024-Jan\FirstStepsInCoding-Exersice\BasketballEquipment\obj\Debug\net6.0\BasketballEquipment.dll
+D:\Softuni-2024-Jan\FirstStepsInCoding-Exersice\BasketballEquipment\obj\Debug\net6.0\refint\BasketballEquipment.dll
+D:\Softuni-2024-Jan\FirstStepsInCoding-Exersice\BasketballEquipment\obj\Debug\net6.0\BasketballEquipment.pdb
+D:\Softuni-2024-Jan\FirstStepsInCoding-Exersice\BasketballEquipment\obj\Debug\net6.0\BasketballEquipment.genruntimeconfig.cache
+D:\Softuni-2024-Jan\FirstStepsInCoding-Exersice\BasketballEquipment\obj\Debug\net6.0\ref\BasketballEquipment.dll

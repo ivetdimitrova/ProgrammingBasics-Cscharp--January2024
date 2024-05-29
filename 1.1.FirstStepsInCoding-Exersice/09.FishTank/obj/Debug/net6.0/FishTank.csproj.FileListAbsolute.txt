@@ -1,0 +1,15 @@
+D:\Softuni-2024-Jan\FirstStepsInCoding-Exersice\FishTank\bin\Debug\net6.0\FishTank.exe
+D:\Softuni-2024-Jan\FirstStepsInCoding-Exersice\FishTank\bin\Debug\net6.0\FishTank.deps.json
+D:\Softuni-2024-Jan\FirstStepsInCoding-Exersice\FishTank\bin\Debug\net6.0\FishTank.runtimeconfig.json
+D:\Softuni-2024-Jan\FirstStepsInCoding-Exersice\FishTank\bin\Debug\net6.0\FishTank.dll
+D:\Softuni-2024-Jan\FirstStepsInCoding-Exersice\FishTank\bin\Debug\net6.0\FishTank.pdb
+D:\Softuni-2024-Jan\FirstStepsInCoding-Exersice\FishTank\obj\Debug\net6.0\FishTank.csproj.AssemblyReference.cache
+D:\Softuni-2024-Jan\FirstStepsInCoding-Exersice\FishTank\obj\Debug\net6.0\FishTank.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni-2024-Jan\FirstStepsInCoding-Exersice\FishTank\obj\Debug\net6.0\FishTank.AssemblyInfoInputs.cache
+D:\Softuni-2024-Jan\FirstStepsInCoding-Exersice\FishTank\obj\Debug\net6.0\FishTank.AssemblyInfo.cs
+D:\Softuni-2024-Jan\FirstStepsInCoding-Exersice\FishTank\obj\Debug\net6.0\FishTank.csproj.CoreCompileInputs.cache
+D:\Softuni-2024-Jan\FirstStepsInCoding-Exersice\FishTank\obj\Debug\net6.0\FishTank.dll
+D:\Softuni-2024-Jan\FirstStepsInCoding-Exersice\FishTank\obj\Debug\net6.0\refint\FishTank.dll
+D:\Softuni-2024-Jan\FirstStepsInCoding-Exersice\FishTank\obj\Debug\net6.0\FishTank.pdb
+D:\Softuni-2024-Jan\FirstStepsInCoding-Exersice\FishTank\obj\Debug\net6.0\FishTank.genruntimeconfig.cache
+D:\Softuni-2024-Jan\FirstStepsInCoding-Exersice\FishTank\obj\Debug\net6.0\ref\FishTank.dll
