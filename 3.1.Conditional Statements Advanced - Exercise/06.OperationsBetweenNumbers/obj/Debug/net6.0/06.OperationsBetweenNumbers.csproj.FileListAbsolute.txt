@@ -1,0 +1,15 @@
+D:\Softuni-2024-Jan\Conditional Statements Advanced - Exercise\06.OperationsBetweenNumbers\bin\Debug\net6.0\06.OperationsBetweenNumbers.exe
+D:\Softuni-2024-Jan\Conditional Statements Advanced - Exercise\06.OperationsBetweenNumbers\bin\Debug\net6.0\06.OperationsBetweenNumbers.deps.json
+D:\Softuni-2024-Jan\Conditional Statements Advanced - Exercise\06.OperationsBetweenNumbers\bin\Debug\net6.0\06.OperationsBetweenNumbers.runtimeconfig.json
+D:\Softuni-2024-Jan\Conditional Statements Advanced - Exercise\06.OperationsBetweenNumbers\bin\Debug\net6.0\06.OperationsBetweenNumbers.dll
+D:\Softuni-2024-Jan\Conditional Statements Advanced - Exercise\06.OperationsBetweenNumbers\bin\Debug\net6.0\06.OperationsBetweenNumbers.pdb
+D:\Softuni-2024-Jan\Conditional Statements Advanced - Exercise\06.OperationsBetweenNumbers\obj\Debug\net6.0\06.OperationsBetweenNumbers.csproj.AssemblyReference.cache
+D:\Softuni-2024-Jan\Conditional Statements Advanced - Exercise\06.OperationsBetweenNumbers\obj\Debug\net6.0\06.OperationsBetweenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni-2024-Jan\Conditional Statements Advanced - Exercise\06.OperationsBetweenNumbers\obj\Debug\net6.0\06.OperationsBetweenNumbers.AssemblyInfoInputs.cache
+D:\Softuni-2024-Jan\Conditional Statements Advanced - Exercise\06.OperationsBetweenNumbers\obj\Debug\net6.0\06.OperationsBetweenNumbers.AssemblyInfo.cs
+D:\Softuni-2024-Jan\Conditional Statements Advanced - Exercise\06.OperationsBetweenNumbers\obj\Debug\net6.0\06.OperationsBetweenNumbers.csproj.CoreCompileInputs.cache
+D:\Softuni-2024-Jan\Conditional Statements Advanced - Exercise\06.OperationsBetweenNumbers\obj\Debug\net6.0\06.OperationsBetweenNumbers.dll
+D:\Softuni-2024-Jan\Conditional Statements Advanced - Exercise\06.OperationsBetweenNumbers\obj\Debug\net6.0\refint\06.OperationsBetweenNumbers.dll
+D:\Softuni-2024-Jan\Conditional Statements Advanced - Exercise\06.OperationsBetweenNumbers\obj\Debug\net6.0\06.OperationsBetweenNumbers.pdb
+D:\Softuni-2024-Jan\Conditional Statements Advanced - Exercise\06.OperationsBetweenNumbers\obj\Debug\net6.0\06.OperationsBetweenNumbers.genruntimeconfig.cache
+D:\Softuni-2024-Jan\Conditional Statements Advanced - Exercise\06.OperationsBetweenNumbers\obj\Debug\net6.0\ref\06.OperationsBetweenNumbers.dll
