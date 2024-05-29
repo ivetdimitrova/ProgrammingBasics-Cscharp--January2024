@@ -1,0 +1,15 @@
+D:\Softuni-2024-Jan\FirstStepsInCoding-Exersice\Repainting\bin\Debug\net6.0\Repainting.exe
+D:\Softuni-2024-Jan\FirstStepsInCoding-Exersice\Repainting\bin\Debug\net6.0\Repainting.deps.json
+D:\Softuni-2024-Jan\FirstStepsInCoding-Exersice\Repainting\bin\Debug\net6.0\Repainting.runtimeconfig.json
+D:\Softuni-2024-Jan\FirstStepsInCoding-Exersice\Repainting\bin\Debug\net6.0\Repainting.dll
+D:\Softuni-2024-Jan\FirstStepsInCoding-Exersice\Repainting\bin\Debug\net6.0\Repainting.pdb
+D:\Softuni-2024-Jan\FirstStepsInCoding-Exersice\Repainting\obj\Debug\net6.0\Repainting.csproj.AssemblyReference.cache
+D:\Softuni-2024-Jan\FirstStepsInCoding-Exersice\Repainting\obj\Debug\net6.0\Repainting.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni-2024-Jan\FirstStepsInCoding-Exersice\Repainting\obj\Debug\net6.0\Repainting.AssemblyInfoInputs.cache
+D:\Softuni-2024-Jan\FirstStepsInCoding-Exersice\Repainting\obj\Debug\net6.0\Repainting.AssemblyInfo.cs
+D:\Softuni-2024-Jan\FirstStepsInCoding-Exersice\Repainting\obj\Debug\net6.0\Repainting.csproj.CoreCompileInputs.cache
+D:\Softuni-2024-Jan\FirstStepsInCoding-Exersice\Repainting\obj\Debug\net6.0\Repainting.dll
+D:\Softuni-2024-Jan\FirstStepsInCoding-Exersice\Repainting\obj\Debug\net6.0\refint\Repainting.dll
+D:\Softuni-2024-Jan\FirstStepsInCoding-Exersice\Repainting\obj\Debug\net6.0\Repainting.pdb
+D:\Softuni-2024-Jan\FirstStepsInCoding-Exersice\Repainting\obj\Debug\net6.0\Repainting.genruntimeconfig.cache
+D:\Softuni-2024-Jan\FirstStepsInCoding-Exersice\Repainting\obj\Debug\net6.0\ref\Repainting.dll

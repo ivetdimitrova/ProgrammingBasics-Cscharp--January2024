@@ -1,0 +1,15 @@
+D:\Softuni-2024-Jan\FirstStepsInCoding-Exersice\VacationBooksList\bin\Debug\net6.0\VacationBooksList.exe
+D:\Softuni-2024-Jan\FirstStepsInCoding-Exersice\VacationBooksList\bin\Debug\net6.0\VacationBooksList.deps.json
+D:\Softuni-2024-Jan\FirstStepsInCoding-Exersice\VacationBooksList\bin\Debug\net6.0\VacationBooksList.runtimeconfig.json
+D:\Softuni-2024-Jan\FirstStepsInCoding-Exersice\VacationBooksList\bin\Debug\net6.0\VacationBooksList.dll
+D:\Softuni-2024-Jan\FirstStepsInCoding-Exersice\VacationBooksList\bin\Debug\net6.0\VacationBooksList.pdb
+D:\Softuni-2024-Jan\FirstStepsInCoding-Exersice\VacationBooksList\obj\Debug\net6.0\VacationBooksList.csproj.AssemblyReference.cache
+D:\Softuni-2024-Jan\FirstStepsInCoding-Exersice\VacationBooksList\obj\Debug\net6.0\VacationBooksList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni-2024-Jan\FirstStepsInCoding-Exersice\VacationBooksList\obj\Debug\net6.0\VacationBooksList.AssemblyInfoInputs.cache
+D:\Softuni-2024-Jan\FirstStepsInCoding-Exersice\VacationBooksList\obj\Debug\net6.0\VacationBooksList.AssemblyInfo.cs
+D:\Softuni-2024-Jan\FirstStepsInCoding-Exersice\VacationBooksList\obj\Debug\net6.0\VacationBooksList.csproj.CoreCompileInputs.cache
+D:\Softuni-2024-Jan\FirstStepsInCoding-Exersice\VacationBooksList\obj\Debug\net6.0\VacationBooksList.dll
+D:\Softuni-2024-Jan\FirstStepsInCoding-Exersice\VacationBooksList\obj\Debug\net6.0\refint\VacationBooksList.dll
+D:\Softuni-2024-Jan\FirstStepsInCoding-Exersice\VacationBooksList\obj\Debug\net6.0\VacationBooksList.pdb
+D:\Softuni-2024-Jan\FirstStepsInCoding-Exersice\VacationBooksList\obj\Debug\net6.0\VacationBooksList.genruntimeconfig.cache
+D:\Softuni-2024-Jan\FirstStepsInCoding-Exersice\VacationBooksList\obj\Debug\net6.0\ref\VacationBooksList.dll
