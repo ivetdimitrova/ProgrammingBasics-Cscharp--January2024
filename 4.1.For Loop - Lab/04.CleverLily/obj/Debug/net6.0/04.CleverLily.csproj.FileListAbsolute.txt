@@ -1,0 +1,15 @@
+D:\Softuni-2024-Jan\ForLoop-Exercise\04.CleverLily\bin\Debug\net6.0\04.CleverLily.exe
+D:\Softuni-2024-Jan\ForLoop-Exercise\04.CleverLily\bin\Debug\net6.0\04.CleverLily.deps.json
+D:\Softuni-2024-Jan\ForLoop-Exercise\04.CleverLily\bin\Debug\net6.0\04.CleverLily.runtimeconfig.json
+D:\Softuni-2024-Jan\ForLoop-Exercise\04.CleverLily\bin\Debug\net6.0\04.CleverLily.dll
+D:\Softuni-2024-Jan\ForLoop-Exercise\04.CleverLily\bin\Debug\net6.0\04.CleverLily.pdb
+D:\Softuni-2024-Jan\ForLoop-Exercise\04.CleverLily\obj\Debug\net6.0\04.CleverLily.csproj.AssemblyReference.cache
+D:\Softuni-2024-Jan\ForLoop-Exercise\04.CleverLily\obj\Debug\net6.0\04.CleverLily.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni-2024-Jan\ForLoop-Exercise\04.CleverLily\obj\Debug\net6.0\04.CleverLily.AssemblyInfoInputs.cache
+D:\Softuni-2024-Jan\ForLoop-Exercise\04.CleverLily\obj\Debug\net6.0\04.CleverLily.AssemblyInfo.cs
+D:\Softuni-2024-Jan\ForLoop-Exercise\04.CleverLily\obj\Debug\net6.0\04.CleverLily.csproj.CoreCompileInputs.cache
+D:\Softuni-2024-Jan\ForLoop-Exercise\04.CleverLily\obj\Debug\net6.0\04.CleverLily.dll
+D:\Softuni-2024-Jan\ForLoop-Exercise\04.CleverLily\obj\Debug\net6.0\refint\04.CleverLily.dll
+D:\Softuni-2024-Jan\ForLoop-Exercise\04.CleverLily\obj\Debug\net6.0\04.CleverLily.pdb
+D:\Softuni-2024-Jan\ForLoop-Exercise\04.CleverLily\obj\Debug\net6.0\04.CleverLily.genruntimeconfig.cache
+D:\Softuni-2024-Jan\ForLoop-Exercise\04.CleverLily\obj\Debug\net6.0\ref\04.CleverLily.dll
