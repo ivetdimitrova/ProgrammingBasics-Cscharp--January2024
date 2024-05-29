@@ -1,0 +1,15 @@
+D:\Softuni-2024-Jan\NestedLoops-Lab\02.MultiplicationTable\bin\Debug\net6.0\02.MultiplicationTable.exe
+D:\Softuni-2024-Jan\NestedLoops-Lab\02.MultiplicationTable\bin\Debug\net6.0\02.MultiplicationTable.deps.json
+D:\Softuni-2024-Jan\NestedLoops-Lab\02.MultiplicationTable\bin\Debug\net6.0\02.MultiplicationTable.runtimeconfig.json
+D:\Softuni-2024-Jan\NestedLoops-Lab\02.MultiplicationTable\bin\Debug\net6.0\02.MultiplicationTable.dll
+D:\Softuni-2024-Jan\NestedLoops-Lab\02.MultiplicationTable\bin\Debug\net6.0\02.MultiplicationTable.pdb
+D:\Softuni-2024-Jan\NestedLoops-Lab\02.MultiplicationTable\obj\Debug\net6.0\02.MultiplicationTable.csproj.AssemblyReference.cache
+D:\Softuni-2024-Jan\NestedLoops-Lab\02.MultiplicationTable\obj\Debug\net6.0\02.MultiplicationTable.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni-2024-Jan\NestedLoops-Lab\02.MultiplicationTable\obj\Debug\net6.0\02.MultiplicationTable.AssemblyInfoInputs.cache
+D:\Softuni-2024-Jan\NestedLoops-Lab\02.MultiplicationTable\obj\Debug\net6.0\02.MultiplicationTable.AssemblyInfo.cs
+D:\Softuni-2024-Jan\NestedLoops-Lab\02.MultiplicationTable\obj\Debug\net6.0\02.MultiplicationTable.csproj.CoreCompileInputs.cache
+D:\Softuni-2024-Jan\NestedLoops-Lab\02.MultiplicationTable\obj\Debug\net6.0\02.MultiplicationTable.dll
+D:\Softuni-2024-Jan\NestedLoops-Lab\02.MultiplicationTable\obj\Debug\net6.0\refint\02.MultiplicationTable.dll
+D:\Softuni-2024-Jan\NestedLoops-Lab\02.MultiplicationTable\obj\Debug\net6.0\02.MultiplicationTable.pdb
+D:\Softuni-2024-Jan\NestedLoops-Lab\02.MultiplicationTable\obj\Debug\net6.0\02.MultiplicationTable.genruntimeconfig.cache
+D:\Softuni-2024-Jan\NestedLoops-Lab\02.MultiplicationTable\obj\Debug\net6.0\ref\02.MultiplicationTable.dll

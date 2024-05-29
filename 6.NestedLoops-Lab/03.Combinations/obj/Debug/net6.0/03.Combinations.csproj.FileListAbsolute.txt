@@ -1,0 +1,15 @@
+D:\Softuni-2024-Jan\NestedLoops-Lab\03.Combinations\bin\Debug\net6.0\03.Combinations.exe
+D:\Softuni-2024-Jan\NestedLoops-Lab\03.Combinations\bin\Debug\net6.0\03.Combinations.deps.json
+D:\Softuni-2024-Jan\NestedLoops-Lab\03.Combinations\bin\Debug\net6.0\03.Combinations.runtimeconfig.json
+D:\Softuni-2024-Jan\NestedLoops-Lab\03.Combinations\bin\Debug\net6.0\03.Combinations.dll
+D:\Softuni-2024-Jan\NestedLoops-Lab\03.Combinations\bin\Debug\net6.0\03.Combinations.pdb
+D:\Softuni-2024-Jan\NestedLoops-Lab\03.Combinations\obj\Debug\net6.0\03.Combinations.csproj.AssemblyReference.cache
+D:\Softuni-2024-Jan\NestedLoops-Lab\03.Combinations\obj\Debug\net6.0\03.Combinations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softuni-2024-Jan\NestedLoops-Lab\03.Combinations\obj\Debug\net6.0\03.Combinations.AssemblyInfoInputs.cache
+D:\Softuni-2024-Jan\NestedLoops-Lab\03.Combinations\obj\Debug\net6.0\03.Combinations.AssemblyInfo.cs
+D:\Softuni-2024-Jan\NestedLoops-Lab\03.Combinations\obj\Debug\net6.0\03.Combinations.csproj.CoreCompileInputs.cache
+D:\Softuni-2024-Jan\NestedLoops-Lab\03.Combinations\obj\Debug\net6.0\03.Combinations.dll
+D:\Softuni-2024-Jan\NestedLoops-Lab\03.Combinations\obj\Debug\net6.0\refint\03.Combinations.dll
+D:\Softuni-2024-Jan\NestedLoops-Lab\03.Combinations\obj\Debug\net6.0\03.Combinations.pdb
+D:\Softuni-2024-Jan\NestedLoops-Lab\03.Combinations\obj\Debug\net6.0\03.Combinations.genruntimeconfig.cache
+D:\Softuni-2024-Jan\NestedLoops-Lab\03.Combinations\obj\Debug\net6.0\ref\03.Combinations.dll
